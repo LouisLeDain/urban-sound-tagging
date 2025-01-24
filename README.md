@@ -39,8 +39,8 @@ You will find in the baseline folder the notebook ```final_framework.py``` which
 
 ## Results
 
-The ```output``` contains different elements of results obtained with the proposed framework.
-
+The ```output``` folder contains different elements of results obtained with the proposed framework.
+You can read a deeper description of the proposed framework in the ``IA_DL_paper-2.pdf```file.
 <center>
 <img width= 500 src='./final results.png' />
 </center>
