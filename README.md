@@ -18,7 +18,11 @@ In this project, we develop a urban sound tagging system. Given a ten-second aud
 7. human-voice    
 8. dog
 
-This project is part of the Urban Sound Tagging Challenge designed by the SONYC project.
+The mel spectrograms of the sound recordings are computed to be used in our model.
+
+<center>
+<img width= 500 src='./mel spectrogram.jpeg' />
+</center>
 
 
 ## Setup Instructions
@@ -36,3 +40,7 @@ You will find in the baseline folder the notebook ```final_framework.py``` which
 ## Results
 
 The ```output``` contains different elements of results obtained with the proposed framework.
+
+<center>
+<img width= 500 src='./final results.png' />
+</center>
