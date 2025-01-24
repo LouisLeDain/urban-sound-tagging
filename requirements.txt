@@ -1,0 +1,12 @@
+torch>=2.4.0
+librosa
+matplotlib
+jupyter
+numpy
+oyaml
+pandas
+resampy
+scikit-learn
+soundfile
+tqdm
+torchinfo
