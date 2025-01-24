@@ -1,0 +1,12 @@
+{
+  "annotation_file": "/raid/home/automatants/ledain_lou/urban-sound-tagging-project/data/ust-data/sonyc-ust/annotations.csv",
+  "taxonomy_file": "/raid/home/automatants/ledain_lou/urban-sound-tagging-project/data/ust-data/sonyc-ust/dcase-ust-taxonomy.yaml",
+  "exp_id": "baseline_2025-01-21-11h24m10s",
+  "log_mel_spec_dir": "/raid/home/automatants/ledain_lou/urban-sound-tagging-project/data/ust-data/log-mel-spectrograms",
+  "learning_rate_vgg1": 0.0005,
+  "learning_rate_vgg2": 8.5e-05,
+  "learning_rate_gru": 0.005,
+  "batch_size": 128,
+  "num_epochs": 10,
+  "patience": 20
+}
